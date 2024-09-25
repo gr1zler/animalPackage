@@ -2,9 +2,13 @@ package animalPackage
 
 import "fmt"
 
-func dog() {
+func Dog() {
 	fmt.Print("gaf gaf")
 }
-func doggaf() string {
+func Doggaf() string {
 	return "gaf"
+}
+
+func Doggaf2() string {
+	return "gaf2"
 }
